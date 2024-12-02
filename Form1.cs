@@ -57,7 +57,7 @@ namespace Calculater
         {
             if (this.txt_display.Text != "")
             { 
-                this.txt_display.Text = this.txt_display.Text + "0"; 
+                this.txt_display.Text = this.txt_display.Text + "00"; 
             }
             
         }
