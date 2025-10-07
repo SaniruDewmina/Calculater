@@ -55,7 +55,7 @@ Follow these simple steps to run the project on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SaniruDewmina/Calculater.git
+   git clone https://github.com/sanirudewmina/Calculater.git
    ```
 
 2. Open the solution file in **Visual Studio**:
@@ -132,7 +132,7 @@ See the [LICENSE](LICENSE) file for details.
 ## 👤 Author
 
 **Saniru Dewmina**  
-💻 [GitHub Profile](https://github.com/SaniruDewmina)  
+💻 [GitHub Profile](https://github.com/sanirudewmina)  
 🎓 Undergraduate Software Engineering Student at NIBM University  
 📧 (Add your email or LinkedIn if you’d like)  
 
